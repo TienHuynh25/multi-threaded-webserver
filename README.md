@@ -1,4 +1,4 @@
-# Assignment 1 Multi-Threaded Web Server and Analysis  
+# Multi-Threaded Web Server and Analysis  
 ## Par1: Simple Multi-Threaded Web Server  
 This is a Python-based multi-threaded web server designed to serve files and directory listings. The server listens on a specified port and serves files from a specified directory. You can run it as a single-threaded or multi-threaded application, depending on your needs.  
 
